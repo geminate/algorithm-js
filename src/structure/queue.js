@@ -1,8 +1,8 @@
 // 队列
 class Queue {
 
-  constructor () {
-    this.queue = []
+  constructor (arr) {
+    this.queue = arr || []
   }
 
   // 队尾加入元素
