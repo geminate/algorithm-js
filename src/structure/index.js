@@ -5,5 +5,6 @@ import LinkedList from './linkedList'
 import DoublyLinkedList from './doublyLinkedList'
 import HashTable from './hashTable'
 import BinarySearchTree from './binarySearchTree'
+import Graph from './graph'
 
-export { Stack, Queue, PriorityQueue, LinkedList, DoublyLinkedList, HashTable, BinarySearchTree }
+export { Stack, Queue, PriorityQueue, LinkedList, DoublyLinkedList, HashTable, BinarySearchTree, Graph }
