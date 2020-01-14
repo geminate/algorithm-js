@@ -7,5 +7,17 @@ import HashTable from './hashTable'
 import BinarySearchTree from './binarySearchTree'
 import Graph from './graph'
 import ArrayList from './arrayList'
+import MinCoinChange from './minCoinChange'
 
-export { Stack, Queue, PriorityQueue, LinkedList, DoublyLinkedList, HashTable, BinarySearchTree, Graph, ArrayList }
+export {
+  Stack,
+  Queue,
+  PriorityQueue,
+  LinkedList,
+  DoublyLinkedList,
+  HashTable,
+  BinarySearchTree,
+  Graph,
+  ArrayList,
+  MinCoinChange
+}
